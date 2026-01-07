@@ -1,8 +1,1 @@
-# API-integration-with-data-visualtization-
-
-company - codtech it solutions
-name - aditya sharma
-intern id -ct04dl1297
-domain - python devlopment 
-duration - 4weeks
-mentor -neela santosh
+this is my new repository where i store my .ipynb files having data analysis on real world data sets,created using google colab 
